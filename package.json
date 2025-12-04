@@ -1,7 +1,8 @@
 {
-  "name": "n8n-render-deploy",
+  "name": "n8n-deploy",
   "version": "1.0.0",
-  "description": "Deploy n8n on Render/Railway",
-  "scripts": { "start": "n8n" },
-  "dependencies": { "n8n": "^1.47.0" }
+  "scripts": {},
+  "dependencies": {
+    "n8n": "^1.47.0"
+  }
 }
